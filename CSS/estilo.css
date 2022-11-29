@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo+Play:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body {
+    background-image: url(../gif/1-iBVj1kRLNw-kzuoMMYO7TA.gif);
+}
+
+.redes {
+    float: right;
+    width: 30px;
+    padding-right: 10px;
+}
+
+.pesquisa {
+    float: center;
+}
+
+.logo {
+    float: left;
+    width: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: wheat;
+}
+
+.logo1 {
+    float: left;
+    width: 70px;
+    color: wheat;
+}
+
+#text-logo {
+    color: wheat;
+    padding-top: 20px;
+    text-align: left;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.num {
+    color: white;
+    font-size: px;
+}
+
+.back {
+    margin-right: 3px;
+    height: 500px;
+    background-color: wheat;
+    background-image: url(../gif/1-iBVj1kRLNw-kzuoMMYO7TA.gif);
+}
+
+#text-center {
+    padding-top: 8%;
+    text-align: center;
+    font-family: 'Cairo Play', cursive;
+    font-size: 50px;
+    color: wheat;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#sub-text {
+    color: wheat;
+    font-style: oblique;
+    font-size: 22px;
+    text-shadow: -1px 0 rgb(255, 255, 255), 0 2px black, 2px 0 black, 0 -1px black;
+    text-align: center;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.link {
+    background-color: red;
+    text-decoration: none;
+    float: inline-start;
+    margin-left: 30%;
+    color: white;
+    padding-top: 15px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+}
+
+.link:hover {
+    background-color: rgb(199, 26, 26);
+    color: white;
+}
+
+.link-b {
+    background-color: red;
+    text-decoration: none;
+    float: inline-start;
+    margin-left: 25%;
+    color: white;
+    padding-top: 15px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+}
+
+.link-b:hover {
+    background-color: rgb(199, 26, 26);
+    color: white;
+}
+#final {
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}

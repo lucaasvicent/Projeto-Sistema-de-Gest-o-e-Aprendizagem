@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo+Play:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+
+body{
+    margin: 0 auto;
+    background-image: radial-gradient(circle at 69.44% 73.17%, #003a4e 0, #003747 6.25%, #00343f 12.5%, #002f37 18.75%, #052a2e 25%, #0a2325 31.25%, #0d1c1c 37.5%, #0b1513 43.75%, #080808 50%, #040000 56.25%, #000000 62.5%, #000000 68.75%, #000000 75%, #000000 81.25%, #000000 87.5%, #000000 93.75%, #000000 100%);
+}
+:root {
+    font-family: 'Rajdhani', sans-serif;
+}
+.menuinicio{
+    margin: 0px;
+    background-color: black;
+    
+}
+.logo{
+    height: 3%;
+    width: 3%;
+    margin-right: 0px;
+}
+.cad{ 
+    font-size: 25px;
+    color: red;
+}
+.inicio{
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+.menu1{
+    font-size: 25px;
+    color: rgb(255, 255, 255)
+}
+.menu2{
+    font-size: 25px;
+    color: rgb(255, 255, 255)
+}
+.menu3{
+    font-size: 25px;
+    color: rgb(255, 255, 255)
+    
+}
+.menu4{
+    font-size: 25px;
+    color: rgb(255, 255, 255)
+    
+}
+a:link {
+    text-decoration: none;
+    margin: 75px;
+}
+a:hover {
+    text-decoration: underline;
+   
+}
+.sobre{
+    font-size: 40px;
+    margin-left: 45px;
+}
+.hr, hr{
+    margin: 5px 0;
+    border: 0;
+    height: 1px;
+    background-color: white;
+ }
+ img{
+    border-radius: 15px;
+    -webkit-filter: drop-shadow(0px 0px 0px rgb(0, 0, 0)); 
+    filter: drop-shadow(0px 10px 10px rgb(0, 0, 0));
+ }
+.esquerda{
+   width: 50%;
+   height: 300px;
+   display: inline-block;
+   margin-left: 25px;
+   border-radius: 15px;
+   background-color: rgb(12, 95, 168);
+}
+.direita{
+    width: 40%;
+    height: 400px;
+    background-image: radial-gradient(circle at 4.55% -4.17%, #00bed0 0, #00bdd7 8.33%, #00bcde 16.67%, #00bae5 25%, #00b9ea 33.33%, #21b7ee 41.67%, #3cb5f2 50%, #51b3f4 58.33%, #63b0f6 66.67%, #74adf6 75%, #84aaf5 83.33%, #93a7f4 91.67%, #a0a4f1 100%);
+    float: right;
+    border-radius: 15px;
+    margin: 20px 50px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.627);
+}
+.h1{
+    margin-left: 15px;
+}
+.div{
+    display: inline-block;
+}
+.texto1{
+    font-size: 30px;
+    margin-left: 15px;
+    font-style: italic;
+    max-height:300px ;
+}
+.esquerda2{
+    width: 45%;
+    height: 400px;
+    background-image: radial-gradient(circle at 4.55% -4.17%, #00bed0 0, #00bdd7 8.33%, #00bcde 16.67%, #00bae5 25%, #00b9ea 33.33%, #21b7ee 41.67%, #3cb5f2 50%, #51b3f4 58.33%, #63b0f6 66.67%, #74adf6 75%, #84aaf5 83.33%, #93a7f4 91.67%, #a0a4f1 100%);
+    float: left;
+    border-radius: 15px;
+    margin: 0px 50px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.627);
+}
+.cont{
+    margin-left: 5px;
+}
+.texto2{
+    font-size: 30px;
+    margin-left: 15px;
+    font-style: italic;
+    max-height:300px ;
+}
+.direita2{
+    width: 45%;
+    height: 400px;
+    display: inline-block;
+    margin:20px 0px;
+    border-radius: 15px;
+    background-color: blue;
+}
+
+.esquerda3{
+    width: 50%;
+    height: 500px;
+    display: inline-block;
+    margin-left: 25px 25px;
+    border-radius: 15px;
+    background-color: rgb(12, 95, 168);
+}
+.direita3{
+    width: 40%;
+    height: 450px;
+    background-image: radial-gradient(circle at 4.55% -4.17%, #00bed0 0, #00bdd7 8.33%, #00bcde 16.67%, #00bae5 25%, #00b9ea 33.33%, #21b7ee 41.67%, #3cb5f2 50%, #51b3f4 58.33%, #63b0f6 66.67%, #74adf6 75%, #84aaf5 83.33%, #93a7f4 91.67%, #a0a4f1 100%);
+    float: right;
+    border-radius: 15px;
+    margin: -480px 80px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.627);
+}
+.texto3{
+    font-size: 28px;
+    margin-left: 15px;
+    font-style: italic;
+    max-height:300px ;
+}
+.prof{
+    margin-left: 5px;
+}
+.rodape{
+    max-width: auto;
+    height: 70px;
+}
+.rod{
+    text-align: center;
+    padding: 12px;
+    color: white;
+    font-size: 20px;
+}  
